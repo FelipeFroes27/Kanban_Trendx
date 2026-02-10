@@ -17,7 +17,7 @@ def get_estoque_sheet():
     return get_planilha().worksheet("ESTOQUE")
 
 def get_historico_sheet():
-    return get_planilha().worksheet("HISTORICO")
+    return get_planilha().worksheet("HISTÓRICO")
 
 def listar_produtos():
     sheet = get_estoque_sheet()
