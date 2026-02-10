@@ -1,1 +1,6 @@
+streamlit
+gspread
+google-auth
+qrcode
+pillow
 
